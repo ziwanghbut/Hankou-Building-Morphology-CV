@@ -1,0 +1,73 @@
+﻿scenario_id,scenario,feature,n_buildings,H,epsilon_squared,permutation_p,BH_FDR_p
+S1,All five concessions — primary,window_count_mean,59,8.155823615261019,0.07695969657890776,0.0718,0.3357
+S1,All five concessions — primary,mean_window_area_px2,59,2.715636971057174,0.0,0.6202,0.8331428571428571
+S1,All five concessions — primary,mean_window_aspect_ratio,59,1.8884481964640063,0.0,0.7773,0.93276
+S1,All five concessions — primary,total_window_area_ratio,59,12.255090748673046,0.1528720509013527,0.0086,0.1548
+S1,All five concessions — primary,door_count_mean,59,2.6317381102140454,0.0,0.648,0.8331428571428571
+S1,All five concessions — primary,mean_door_area_px2,59,8.117475499507469,0.07624954628717535,0.0746,0.3357
+S1,All five concessions — primary,mean_door_aspect_ratio,59,5.328052485788713,0.02459356455164283,0.2575,0.579375
+S1,All five concessions — primary,total_door_area_ratio,59,7.527592145598975,0.06532578047405509,0.0991,0.35675999999999997
+S1,All five concessions — primary,column_count_mean,59,11.064577676369847,0.13082551252536753,0.0175,0.15750000000000003
+S1,All five concessions — primary,mean_column_area_px2,59,1.2159549181606013,0.0,0.892,0.9444705882352942
+S1,All five concessions — primary,mean_column_width_height_ratio,59,4.002341167924304,4.335496156118826e-05,0.4314,0.6534
+S1,All five concessions — primary,total_column_area_ratio,59,4.927962136985248,0.017184484018245332,0.2939,0.5878
+S1,All five concessions — primary,facade_width_height_ratio,59,1.335446415134875,0.0,0.8663,0.9444705882352942
+S1,All five concessions — primary,edge_pixel_ratio,59,0.6782489424069793,0.0,0.9566,0.9566000000000001
+S1,All five concessions — primary,opening_area_proxy,59,4.0460447424535,0.0008526804158055512,0.4163,0.6534
+S1,All five concessions — primary,contour_count_mean,59,3.908182398036241,0.0,0.4356,0.6534
+S1,All five concessions — primary,curve_contour_ratio,59,6.113775169710368,0.039143984624266076,0.1899,0.5697
+S1,All five concessions — primary,symmetry_degree,59,5.682780026500055,0.03116259308333435,0.2258,0.579375
+S2,All five concessions — exclude attribution-sensitive buildings,window_count_mean,54,7.06915586902756,0.06263583406178695,0.1217,0.3646285714285714
+S2,All five concessions — exclude attribution-sensitive buildings,mean_window_area_px2,54,3.1733677125649424,0.0,0.559,0.7187142857142857
+S2,All five concessions — exclude attribution-sensitive buildings,mean_window_aspect_ratio,54,1.8427898807254532,0.0,0.7807,0.9008470588235293
+S2,All five concessions — exclude attribution-sensitive buildings,total_window_area_ratio,54,11.85438134084115,0.1602934967518602,0.0131,0.1179
+S2,All five concessions — exclude attribution-sensitive buildings,door_count_mean,54,3.776142196424465,0.0,0.4566,0.6924
+S2,All five concessions — exclude attribution-sensitive buildings,mean_door_area_px2,54,9.476205360546293,0.11175929307237334,0.0413,0.18585000000000002
+S2,All five concessions — exclude attribution-sensitive buildings,mean_door_aspect_ratio,54,7.433760986288229,0.07007675482220876,0.101,0.36360000000000003
+S2,All five concessions — exclude attribution-sensitive buildings,total_door_area_ratio,54,9.929527113124719,0.12101075741070855,0.0303,0.1818
+S2,All five concessions — exclude attribution-sensitive buildings,column_count_mean,54,12.051517131242747,0.16431667614781117,0.0087,0.1179
+S2,All five concessions — exclude attribution-sensitive buildings,mean_column_area_px2,54,1.6349252333394972,0.0,0.816,0.9008470588235293
+S2,All five concessions — exclude attribution-sensitive buildings,mean_column_width_height_ratio,54,4.384150960349856,0.007839815517343992,0.378,0.6804
+S2,All five concessions — exclude attribution-sensitive buildings,total_column_area_ratio,54,4.550974644803981,0.011244380506203694,0.3545,0.6804
+S2,All five concessions — exclude attribution-sensitive buildings,facade_width_height_ratio,54,0.5787150327389569,0.0,0.972,0.972
+S2,All five concessions — exclude attribution-sensitive buildings,edge_pixel_ratio,54,1.4663203463203445,0.0,0.8508,0.9008470588235293
+S2,All five concessions — exclude attribution-sensitive buildings,opening_area_proxy,54,3.7650216450216476,0.0,0.4616,0.6924
+S2,All five concessions — exclude attribution-sensitive buildings,contour_count_mean,54,3.411332614844287,0.0,0.5153,0.7134923076923076
+S2,All five concessions — exclude attribution-sensitive buildings,curve_contour_ratio,54,6.179613222061116,0.04448190249104318,0.1825,0.410625
+S2,All five concessions — exclude attribution-sensitive buildings,symmetry_degree,54,6.689918368902882,0.05489629324291596,0.1418,0.3646285714285714
+S3,British–French–Russian only,window_count_mean,53,4.442698471650301,0.048853969433006024,0.1047,0.8016
+S3,British–French–Russian only,mean_window_area_px2,53,0.056517966618981626,0.0,0.9728,0.9728
+S3,British–French–Russian only,mean_window_aspect_ratio,53,1.013967109424405,0.0,0.6123,0.8478
+S3,British–French–Russian only,total_window_area_ratio,53,2.8720459653904498,0.017440919307808996,0.2415,0.8253
+S3,British–French–Russian only,door_count_mean,53,1.8180356722298114,0.0,0.4071,0.8253
+S3,British–French–Russian only,mean_door_area_px2,53,1.6058619456329932,0.0,0.4548,0.8253
+S3,British–French–Russian only,mean_door_aspect_ratio,53,1.6819521357710705,0.0,0.4446,0.8253
+S3,British–French–Russian only,total_door_area_ratio,53,1.771046626125341,0.0,0.4179,0.8253
+S3,British–French–Russian only,column_count_mean,53,3.416803633552034,0.028336072671040685,0.187,0.8253
+S3,British–French–Russian only,mean_column_area_px2,53,0.4733414939979479,0.0,0.7948,0.95376
+S3,British–French–Russian only,mean_column_width_height_ratio,53,4.072652727582975,0.0414530545516595,0.1336,0.8016
+S3,British–French–Russian only,total_column_area_ratio,53,1.563288674876463,0.0,0.4585,0.8253
+S3,British–French–Russian only,facade_width_height_ratio,53,1.2416466912740347,0.0,0.5386,0.8478
+S3,British–French–Russian only,edge_pixel_ratio,53,0.19077984941508094,0.0,0.9148,0.9728
+S3,British–French–Russian only,opening_area_proxy,53,0.11254615784143551,0.0,0.9483,0.9728
+S3,British–French–Russian only,contour_count_mean,53,0.7027682481323619,0.0,0.7053,0.9068142857142858
+S3,British–French–Russian only,curve_contour_ratio,53,5.313549618670255,0.0662709923734051,0.0704,0.8016
+S3,British–French–Russian only,symmetry_degree,53,1.034433249148366,0.0,0.6038,0.8478
+S4,British–French–Russian only — exclude attribution-sensitive buildings,window_count_mean,48,3.417672051381838,0.031503823364040846,0.1766,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,mean_window_area_px2,48,0.16793914439249075,0.0,0.9252,0.9537999999999999
+S4,British–French–Russian only — exclude attribution-sensitive buildings,mean_window_aspect_ratio,48,1.1330539398169674,0.0,0.5692,0.8277428571428571
+S4,British–French–Russian only — exclude attribution-sensitive buildings,total_window_area_ratio,48,2.9371993113823245,0.020826651364051655,0.235,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,door_count_mean,48,2.831177674534414,0.018470614989653644,0.2494,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,mean_door_area_px2,48,2.9787331053574047,0.021749624563497882,0.233,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,mean_door_aspect_ratio,48,3.5605795550592725,0.034679545667983834,0.1716,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,total_door_area_ratio,48,3.678333759818858,0.0372963057737524,0.1638,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,column_count_mean,48,4.615104097573923,0.05811342439053162,0.0989,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,mean_column_area_px2,48,0.9913074495390058,0.0,0.6186,0.8277428571428571
+S4,British–French–Russian only — exclude attribution-sensitive buildings,mean_column_width_height_ratio,48,4.520361969897878,0.056008043775508394,0.1017,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,total_column_area_ratio,48,1.6258415791677538,0.0,0.4469,0.7312909090909091
+S4,British–French–Russian only — exclude attribution-sensitive buildings,facade_width_height_ratio,48,0.4441474809209024,0.0,0.8027,0.9537999999999999
+S4,British–French–Russian only — exclude attribution-sensitive buildings,edge_pixel_ratio,48,0.9055393586005778,0.0,0.6438,0.8277428571428571
+S4,British–French–Russian only — exclude attribution-sensitive buildings,opening_area_proxy,48,0.10087463556848775,0.0,0.9538,0.9537999999999999
+S4,British–French–Russian only — exclude attribution-sensitive buildings,contour_count_mean,48,0.2115194054500344,0.0,0.9002,0.9537999999999999
+S4,British–French–Russian only — exclude attribution-sensitive buildings,curve_contour_ratio,48,5.205491651205933,0.07123314780457629,0.0729,0.4988
+S4,British–French–Russian only — exclude attribution-sensitive buildings,symmetry_degree,48,2.178698605704336,0.003971080126763019,0.3393,0.6107400000000001

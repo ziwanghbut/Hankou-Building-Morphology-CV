@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and Zenodo record."
+title: "Hankou Modern Historic Building Morphology: Data and Analysis Code"
+type: software
+version: 1.1.0
+date-released: 2026-09-04
+authors:
+  - family-names: Wang
+    given-names: Zi
+  - family-names: Shang
+    given-names: Wei
+repository-code: "GITHUB_URL_TO_BE_ADDED"
+doi: "ZENODO_DOI_TO_BE_ADDED"

@@ -1,0 +1,9 @@
+﻿check,status,details
+Total window-area ratio: all values between 0 and 1,PASS,min=0.0331; max=0.5487
+Total door-area ratio: all values between 0 and 1,PASS,min=0.0111; max=0.6184
+Total column-area ratio: all values between 0 and 1,PASS,min=0.0000; max=0.4122
+Facade row count,PASS,77
+Building row count,PASS,59
+Correction-log entries,PASS,6
+No facade descriptor significant after BH-FDR,PASS,minimum q=0.326664
+No primary building-level descriptor significant after BH-FDR,PASS,minimum q=0.154800

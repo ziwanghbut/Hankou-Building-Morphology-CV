@@ -1,0 +1,29 @@
+﻿scenario_id,scenario,component_type,visual_grouping,n_buildings,H,epsilon_squared,permutation_p,BH_FDR_p
+S1,All five concessions — primary,Window,Arched-decorative,59,3.458982456551139,0.0,0.513,0.7182000000000001
+S1,All five concessions — primary,Window,Horizontally continuous,59,3.9277028378425496,0.0,0.4318,0.7182000000000001
+S1,All five concessions — primary,Window,Regular-rectangular,59,8.064453422720925,0.07526765597631344,0.0762,0.4734333333333333
+S1,All five concessions — primary,Door,Traditional door-leaf,59,1.359773584637289,0.0,0.8881,0.8881
+S1,All five concessions — primary,Door,Roller-shutter/grille-feature,59,1.359773584637289,0.0,0.8881,0.8881
+S1,All five concessions — primary,Column,Brick-textured/decorative,57,5.825311168657592,0.03510213785879985,0.2029,0.4734333333333333
+S1,All five concessions — primary,Column,Plain-rectilinear,57,5.825311168657592,0.03510213785879985,0.2029,0.4734333333333333
+S2,All five concessions — exclude attribution-sensitive buildings,Window,Arched-decorative,54,3.1033585063067433,0.0,0.5744,0.8041600000000001
+S2,All five concessions — exclude attribution-sensitive buildings,Window,Horizontally continuous,54,3.7832662642521893,0.0,0.4602,0.8041600000000001
+S2,All five concessions — exclude attribution-sensitive buildings,Window,Regular-rectangular,54,6.970606508714002,0.06062462262681636,0.1327,0.30963333333333337
+S2,All five concessions — exclude attribution-sensitive buildings,Door,Traditional door-leaf,54,1.4591324900892204,0.0,0.891,0.891
+S2,All five concessions — exclude attribution-sensitive buildings,Door,Roller-shutter/grille-feature,54,1.4591324900892204,0.0,0.891,0.891
+S2,All five concessions — exclude attribution-sensitive buildings,Column,Brick-textured/decorative,52,7.574296180010429,0.07604885489383892,0.0967,0.30963333333333337
+S2,All five concessions — exclude attribution-sensitive buildings,Column,Plain-rectilinear,52,7.574296180010429,0.07604885489383892,0.0967,0.30963333333333337
+S3,British–French–Russian only,Window,Arched-decorative,53,0.40317005336723916,0.0,0.8173,0.9444
+S3,British–French–Russian only,Window,Horizontally continuous,53,1.0501046466225301,0.0,0.6013,0.9444
+S3,British–French–Russian only,Window,Regular-rectangular,53,3.1393992891274305,0.02278798578254861,0.2143,0.9444
+S3,British–French–Russian only,Door,Traditional door-leaf,53,0.16943136093484043,0.0,0.9444,0.9444
+S3,British–French–Russian only,Door,Roller-shutter/grille-feature,53,0.16943136093484043,0.0,0.9444,0.9444
+S3,British–French–Russian only,Column,Brick-textured/decorative,51,0.35601475413176936,0.0,0.8367,0.9444
+S3,British–French–Russian only,Column,Plain-rectilinear,51,0.35601475413176936,0.0,0.8367,0.9444
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Window,Arched-decorative,48,0.17544253865236992,0.0,0.9197,0.9197
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Window,Horizontally continuous,48,0.8302361539989342,0.0,0.6732,0.9197
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Window,Regular-rectangular,48,2.824736400111947,0.018327475558043264,0.2503,0.9197
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Door,Traditional door-leaf,48,0.28271018147008464,0.0,0.8759,0.9197
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Door,Roller-shutter/grille-feature,48,0.28271018147008464,0.0,0.8759,0.9197
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Column,Brick-textured/decorative,46,1.2829694107173486,0.0,0.5387,0.9197
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Column,Plain-rectilinear,46,1.2829694107173486,0.0,0.5387,0.9197

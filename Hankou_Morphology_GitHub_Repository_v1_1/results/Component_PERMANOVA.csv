@@ -1,0 +1,13 @@
+﻿scenario_id,scenario,component_type,n_buildings,pseudo_F,R_squared,permutation_p,BH_FDR_p
+S1,All five concessions — primary,Window,59,0.9319974975316301,0.06457855176949925,0.4803,0.72045
+S1,All five concessions — primary,Door,59,0.2925073042586849,0.02120769616474069,0.9067,0.9067
+S1,All five concessions — primary,Column,57,1.3256456566490333,0.09253653820718055,0.2602,0.72045
+S2,All five concessions — exclude attribution-sensitive buildings,Window,54,0.8299416445328603,0.06345147914935526,0.5702,0.8553000000000001
+S2,All five concessions — exclude attribution-sensitive buildings,Door,54,0.3182828990732051,0.025324294625535163,0.889,0.8889999999999999
+S2,All five concessions — exclude attribution-sensitive buildings,Column,52,1.8952919873629688,0.1388971367646963,0.1264,0.37920000000000004
+S3,British–French–Russian only,Window,53,0.4853525571358607,0.019044372882334824,0.7335,0.9257
+S3,British–French–Russian only,Door,53,0.12424585428556628,0.004945257063880111,0.9257,0.9257
+S3,British–French–Russian only,Column,51,0.3847334441345186,0.01577763583169543,0.6862,0.9257
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Window,48,0.38883880470280713,0.016988140290581943,0.8118,0.8841
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Door,48,0.173517239546432,0.007652859400384017,0.8841,0.8841
+S4,British–French–Russian only — exclude attribution-sensitive buildings,Column,46,1.1314289139383311,0.04999370204333419,0.3342,0.8841

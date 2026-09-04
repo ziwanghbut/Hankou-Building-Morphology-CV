@@ -1,0 +1,13 @@
+dataset,column_or_group,description
+Facade_Level_OpenCV_77_Corrected.csv,facade_id,Unique facade identifier F001-F077
+Facade_Level_OpenCV_77_Corrected.csv,building_id,Parent Building ID
+Facade_Level_OpenCV_77_Corrected.csv,concession and concession_cn,Operational building-level concession metadata used in the revised analyses
+Facade_Level_OpenCV_77_Corrected.csv,18 OpenCV descriptors,Facade-scale counts; mean image-plane areas; width-to-height ratios; component area ratios; and whole-facade descriptors
+Facade_Level_OpenCV_77_Corrected.csv,record_audit_status,Indicates whether the coordinate-system denominator correction was applied
+Building_Level_OpenCV_59_Corrected.csv,18 aggregated descriptors,Arithmetic means of all facade records linked to the same Building ID
+Component_Level_Data_Final.csv,resnet_cluster,Final ResNet50 K-means cluster number
+Component_Level_Data_Final.csv,cluster_code,Compact manuscript code W1-W3 D1-D2 or C1-C2
+Component_Level_Data_Final.csv,cluster_informed_visual_grouping,Final conservative descriptive label used in the revised manuscript
+Building_Level_Component_Proportions_59_Final.csv,cluster-specific counts and proportions,Building-level component compositions used in hierarchical sensitivity analyses
+Cluster_Label_Mapping_Final.csv,final_manuscript_label,Mapping between numeric cluster IDs and final manuscript terminology
+Semantic_Validation_Final_Calculations.xlsx,agreement and Cohen's kappa,Independent blinded single-evaluator semantic-concordance results

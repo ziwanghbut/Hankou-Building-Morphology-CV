@@ -1,0 +1,8 @@
+﻿component_type,cluster_id,cluster_code,final_manuscript_label,interpretive_status,component_count
+Window,1,W1,Arched/ornamented tendency,Visual tendency,262
+Window,2,W2,Horizontal-organization tendency,Visual tendency,384
+Window,3,W3,Rectilinear tendency,Visual tendency,876
+Door,1,D1,Shutter/grille-feature grouping,Cluster-informed visual grouping,24
+Door,2,D2,Conventional door-leaf grouping,Cluster-informed visual grouping,227
+Column,1,C1,Brick-textured/articulated grouping,Cluster-informed visual grouping,254
+Column,2,C2,Plain-rectilinear grouping,Cluster-informed visual grouping,429
