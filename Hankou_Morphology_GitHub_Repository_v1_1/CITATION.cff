@@ -9,5 +9,5 @@ authors:
     given-names: Zi
   - family-names: Shang
     given-names: Wei
-repository-code: "GITHUB_URL_TO_BE_ADDED"
-doi: "ZENODO_DOI_TO_BE_ADDED"
+repository-code: "https://github.com/ziwanghbut/Hankou-Building-Morphology-CV"
+doi: "10.5281/zenodo.22304303"
