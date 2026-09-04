@@ -25,7 +25,7 @@ Download these from the associated Zenodo record and place them in `data/`:
 - `Component_ResNet50_Features_2456x2048.csv`
 - `Component_DINOv2_Features_2456x384.csv`
 
-Zenodo: `ZENODO_DOI_TO_BE_ADDED`
+Zenodo: `https://doi.org/10.5281/zenodo.22304303`
 
 ## Primary deep-feature workflow
 
